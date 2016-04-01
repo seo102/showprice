@@ -29,7 +29,7 @@ defined ( 'BASEPATH' ) or exit ( 'No direct script access allowed' );
 					id="category_452">
 					<h2 class="tree-has-child">
 						<a href="/list.nhn?category_id=452" class="tree-label"
-							unselectable="on" onclick="clickcr(this,'lnv.cat2','','',event);">사회과학</a>
+							unselectable="on" onclick="clickcr(this,'lnv.cat2','','',event);">사회 과학</a>
 					</h2>
 				</li>
 
